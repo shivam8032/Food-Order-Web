@@ -1,0 +1,12 @@
+#.$sn++ keep the table organised numerical form it make the id serially arranged for that we have to create the variable and assingned the value.
+#. passing the value through form is post method like adding method.
+#. pasing the value through url is get method.
+#. to get the value encrypted we use md5.
+#.id has single value so it does not need a single where password is string or varchar vale is it's need single coth ('').
+#. for redirecting location we header format
+#.to aling any line we use text-centre
+#.! this sign check the condition of the admin is opening or not the login page 
+#. enctype this property allow to upload file and img we have to add this property in form 
+#. die is used to break the code
+#. to use the img extension expoload()function and by adding the end(expload()) end()function we wiil get the end value of the image.
+#. id is auto increment in auto increment we do not have to pass the value.
